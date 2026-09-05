@@ -1,0 +1,1 @@
+alert("TEST RIUSCITO: Il file su GitHub funziona!");
